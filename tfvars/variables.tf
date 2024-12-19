@@ -22,4 +22,4 @@ variable "tags" {
 }
 
 variable "environment" {
-}
+ }
